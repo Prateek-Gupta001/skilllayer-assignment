@@ -1,0 +1,9 @@
+collectors/credentials.json
+collectors/token.json
+collectors/__pycache__
+collectors/venv
+collectors/drive
+collectors/gmail
+cli/logs.md
+cli/chat_history.json
+cli/brain-cli
